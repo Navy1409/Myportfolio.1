@@ -19,7 +19,7 @@ class _MyAppState extends State<MyApp> {
   List<Widget> widgetlist= [
     home(),
     Dice(),
-    Micard(),
+    // Micard(),
   ];
   @override
   Widget build(BuildContext context) {
